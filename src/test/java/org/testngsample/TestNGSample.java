@@ -6,6 +6,11 @@ public class TestNGSample {
 		System.out.println(a);
 		int b= 20;
 		System.out.println(b);
+		int c= 100;
+		System.out.println(c);
+
+		
+
 	}
 		
 }
